@@ -1,5 +1,6 @@
 *
 !.gitignore
+!Readme.md
 !cv-switch/
 !cv-switch/**
 
