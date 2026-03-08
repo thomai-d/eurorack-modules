@@ -1,0 +1,8 @@
+*
+!.gitignore
+!cv-switch/
+!cv-switch/**
+
+**/*-backups
+**/*.zip
+**/.~lock*
