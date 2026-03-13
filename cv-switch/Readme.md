@@ -5,7 +5,7 @@ A simple, low-cost Eurorack DIY module that outputs **two switched control volta
 ![CV-Switch module](doc/cv-switch.png)
 
 
-Each output can be set to one of **two knob-defined voltages** (“A” and “B”). A single **DPDT toggle switch** flips _both outputs_ between A and B at the same time. Each output also has a **slew** control with an **exponential RC** curve - if you modulate pitch CV, you can "hear" the capacitor charge. I love it :-)
+Each output can be set to one of **two knob-defined voltages**. A single **DPDT toggle switch** flips _both outputs_ at the same time. Each output also has a **slew** control with an **exponential RC** curve - if you modulate pitch CV, you can "hear" the capacitor charge. I love it :-)
 
 ## Demo-Video
 
