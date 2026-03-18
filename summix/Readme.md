@@ -1,8 +1,8 @@
 # Summix
 
-A simple, low-cost Eurorack 3-channel summing mixer with 4 inputs and 2 buffered outputs for each channel.
+A simple, low-cost Eurorack 3-channel summing mixer with 4 inputs and 2 separately buffered outputs for each channel.
 
-![Summix module](doc/summix.jpg)
+![Summix module](doc/summix.gif)
 
 The mixer is fully **DC-coupled**, **Unit-Gain**, **Non-Inverting**. Nothing fancy. Just adding signals.
 
