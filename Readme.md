@@ -13,3 +13,11 @@ Module that outputs **two switched control voltages** with **exponential RC slew
 [More info & demo video](cv-switch/)
 
 [![cv-switch](cv-switch/doc/cv-switch-sm.png)](cv-switch/)
+
+# Summix
+
+3-channel summing mixer with 4 inputs and 2 buffered outputs for each channel.
+
+[More info](summix/)
+
+[![summix](summix/doc/summix-sm.png)](summix/)
