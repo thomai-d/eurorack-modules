@@ -20,4 +20,4 @@ Module that outputs **two switched control voltages** with **exponential RC slew
 
 [More info](summix/)
 
-[![summix](summix/doc/summix-sm.png)](summix/)
+[![summix](summix/doc/summix-sm.jpg)](summix/)

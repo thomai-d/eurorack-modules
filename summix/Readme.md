@@ -4,7 +4,7 @@ A simple, low-cost Eurorack 3-channel summing mixer with 4 inputs and 2 buffered
 
 ![Summix module](doc/summix.jpg)
 
-The mixer is fully **DC-coupled** and **Unit-Gain**. Nothing fancy. Just adding signals.
+The mixer is fully **DC-coupled**, **Unit-Gain**, **Non-Inverting**. Nothing fancy. Just adding signals.
 
 ## Repository content
 
@@ -29,8 +29,9 @@ flowchart LR
     IN1["Input 1"] --> SUM["Inverting summing amp"]
     IN2["Input 2"] --> SUM
     IN3["Input 3"] --> SUM
+    IN3["Input 4"] --> SUM
 
-    SUM --> INV["Unity inverter"]
+    SUM --> INV["Inverter"]
     INV --> BUF1["Output buffer 1"] --> OUT1["Output 1"]
     INV --> BUF2["Output buffer 2"] --> OUT2["Output 2"]
 ```
