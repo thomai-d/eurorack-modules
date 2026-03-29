@@ -2,7 +2,7 @@
 
 A simple, low-cost Eurorack DIY module that outputs **two switched control voltages** with **exponential RC slew limiters**, focused on simple schematics.
 
-![CV-Switch module](doc/cv-switch.png)
+![CV-Switch module](doc/cv-switch.gif)
 
 
 Each output can be set to one of **two knob-defined voltages**. A single **DPDT toggle switch** flips _both outputs_ at the same time. Each output also has a **slew** control with an **exponential RC** curve - if you modulate pitch CV, you can "hear" the capacitor charge. I love it :-)
